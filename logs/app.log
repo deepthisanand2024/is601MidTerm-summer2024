@@ -1,0 +1,224 @@
+2024-07-01 15:11:40,404 - INFO - Logging configured.
+2024-07-01 15:11:40,404 - INFO - Exiting the calculator. Goodbye!
+2024-07-01 15:11:40,405 - INFO - Printed output: Exiting the calculator. Goodbye!
+2024-07-01 15:11:40,407 - INFO - Environment variables loaded.
+2024-07-01 15:11:40,407 - INFO - Logging configured.
+2024-07-01 15:11:40,407 - INFO - Logging configured.
+2024-07-01 15:11:40,407 - ERROR - Unknown command. Please enter a valid command.
+2024-07-01 15:11:40,407 - ERROR - Unknown command. Please enter a valid command.
+2024-07-01 15:11:40,408 - INFO - f {printed_output}
+2024-07-01 15:11:40,408 - INFO - f {printed_output}
+2024-07-01 15:11:40,412 - INFO - Environment variables loaded.
+2024-07-01 15:11:40,412 - INFO - Environment variables loaded.
+2024-07-01 15:11:40,412 - INFO - Logging configured.
+2024-07-01 15:11:40,412 - INFO - Logging configured.
+2024-07-01 15:11:40,412 - INFO - Logging configured.
+2024-07-01 15:11:40,412 - ERROR - Invalid input. Please enter valid numbers.
+2024-07-01 15:11:40,412 - ERROR - Invalid input. Please enter valid numbers.
+2024-07-01 15:11:40,412 - ERROR - Invalid input. Please enter valid numbers.
+2024-07-01 15:11:40,412 - INFO - Exiting the calculator. Goodbye!
+2024-07-01 15:11:40,412 - INFO - Exiting the calculator. Goodbye!
+2024-07-01 15:11:40,412 - INFO - Exiting the calculator. Goodbye!
+2024-07-01 15:11:40,412 - INFO - Printed output: Invalid input. Please enter valid numbers.
+Exiting the calculator. Goodbye!
+2024-07-01 15:11:40,412 - INFO - Printed output: Invalid input. Please enter valid numbers.
+Exiting the calculator. Goodbye!
+2024-07-01 15:11:40,412 - INFO - Printed output: Invalid input. Please enter valid numbers.
+Exiting the calculator. Goodbye!
+2024-07-01 15:11:40,415 - INFO - Environment variables loaded.
+2024-07-01 15:11:40,415 - INFO - Environment variables loaded.
+2024-07-01 15:11:40,415 - INFO - Environment variables loaded.
+2024-07-01 15:11:40,415 - INFO - Logging configured.
+2024-07-01 15:11:40,415 - INFO - Logging configured.
+2024-07-01 15:11:40,415 - INFO - Logging configured.
+2024-07-01 15:11:40,415 - INFO - Logging configured.
+2024-07-01 15:11:40,417 - INFO - Environment variables loaded.
+2024-07-01 15:11:40,417 - INFO - Environment variables loaded.
+2024-07-01 15:11:40,417 - INFO - Environment variables loaded.
+2024-07-01 15:11:40,417 - INFO - Environment variables loaded.
+2024-07-01 15:11:40,418 - INFO - Logging configured.
+2024-07-01 15:11:40,418 - INFO - Logging configured.
+2024-07-01 15:11:40,418 - INFO - Logging configured.
+2024-07-01 15:11:40,418 - INFO - Logging configured.
+2024-07-01 15:11:40,418 - INFO - Logging configured.
+2024-07-01 15:11:40,418 - INFO - Logging configured.
+2024-07-01 15:11:40,418 - INFO - Logging configured.
+2024-07-01 15:11:40,418 - INFO - Logging configured.
+2024-07-01 15:11:40,436 - INFO - Result of division: 3.0
+2024-07-01 15:11:40,436 - INFO - Result of division: 3.0
+2024-07-01 15:11:40,436 - INFO - Result of division: 3.0
+2024-07-01 15:11:40,436 - INFO - Result of division: 3.0
+2024-07-01 15:11:40,440 - ERROR - Error: Division by zero
+2024-07-01 15:11:40,440 - ERROR - Error: Division by zero
+2024-07-01 15:11:40,440 - ERROR - Error: Division by zero
+2024-07-01 15:11:40,440 - ERROR - Error: Division by zero
+2024-07-01 15:12:04,051 - INFO - Logging configured.
+2024-07-01 15:12:04,052 - INFO - Exiting the calculator. Goodbye!
+2024-07-01 15:12:04,052 - INFO - Printed output: Exiting the calculator. Goodbye!
+2024-07-01 15:12:04,061 - INFO - Environment variables loaded.
+2024-07-01 15:12:04,062 - INFO - Logging configured.
+2024-07-01 15:12:04,062 - INFO - Logging configured.
+2024-07-01 15:12:04,062 - ERROR - Unknown command. Please enter a valid command.
+2024-07-01 15:12:04,062 - ERROR - Unknown command. Please enter a valid command.
+2024-07-01 15:12:04,062 - INFO - f {printed_output}
+2024-07-01 15:12:04,062 - INFO - f {printed_output}
+2024-07-01 15:12:04,067 - INFO - Environment variables loaded.
+2024-07-01 15:12:04,067 - INFO - Environment variables loaded.
+2024-07-01 15:12:04,067 - INFO - Logging configured.
+2024-07-01 15:12:04,067 - INFO - Logging configured.
+2024-07-01 15:12:04,067 - INFO - Logging configured.
+2024-07-01 15:12:04,068 - ERROR - Invalid input. Please enter valid numbers.
+2024-07-01 15:12:04,068 - ERROR - Invalid input. Please enter valid numbers.
+2024-07-01 15:12:04,068 - ERROR - Invalid input. Please enter valid numbers.
+2024-07-01 15:12:04,068 - INFO - Exiting the calculator. Goodbye!
+2024-07-01 15:12:04,068 - INFO - Exiting the calculator. Goodbye!
+2024-07-01 15:12:04,068 - INFO - Exiting the calculator. Goodbye!
+2024-07-01 15:12:04,068 - INFO - Printed output: Invalid input. Please enter valid numbers.
+Exiting the calculator. Goodbye!
+2024-07-01 15:12:04,068 - INFO - Printed output: Invalid input. Please enter valid numbers.
+Exiting the calculator. Goodbye!
+2024-07-01 15:12:04,068 - INFO - Printed output: Invalid input. Please enter valid numbers.
+Exiting the calculator. Goodbye!
+2024-07-01 15:12:04,070 - INFO - Environment variables loaded.
+2024-07-01 15:12:04,070 - INFO - Environment variables loaded.
+2024-07-01 15:12:04,070 - INFO - Environment variables loaded.
+2024-07-01 15:12:04,071 - INFO - Logging configured.
+2024-07-01 15:12:04,071 - INFO - Logging configured.
+2024-07-01 15:12:04,071 - INFO - Logging configured.
+2024-07-01 15:12:04,071 - INFO - Logging configured.
+2024-07-01 15:12:04,079 - INFO - Environment variables loaded.
+2024-07-01 15:12:04,079 - INFO - Environment variables loaded.
+2024-07-01 15:12:04,079 - INFO - Environment variables loaded.
+2024-07-01 15:12:04,079 - INFO - Environment variables loaded.
+2024-07-01 15:12:04,082 - INFO - Logging configured.
+2024-07-01 15:12:04,082 - INFO - Logging configured.
+2024-07-01 15:12:04,082 - INFO - Logging configured.
+2024-07-01 15:12:04,082 - INFO - Logging configured.
+2024-07-01 15:12:04,082 - INFO - Logging configured.
+2024-07-01 15:12:04,082 - INFO - Logging configured.
+2024-07-01 15:12:04,082 - INFO - Logging configured.
+2024-07-01 15:12:04,082 - INFO - Logging configured.
+2024-07-01 15:12:04,104 - INFO - Result of division: 3.0
+2024-07-01 15:12:04,104 - INFO - Result of division: 3.0
+2024-07-01 15:12:04,104 - INFO - Result of division: 3.0
+2024-07-01 15:12:04,104 - INFO - Result of division: 3.0
+2024-07-01 15:12:04,107 - ERROR - Error: Division by zero
+2024-07-01 15:12:04,107 - ERROR - Error: Division by zero
+2024-07-01 15:12:04,107 - ERROR - Error: Division by zero
+2024-07-01 15:12:04,107 - ERROR - Error: Division by zero
+2024-07-01 15:12:34,351 - INFO - Logging configured.
+2024-07-01 15:12:34,352 - INFO - Exiting the calculator. Goodbye!
+2024-07-01 15:12:34,352 - INFO - Printed output: Exiting the calculator. Goodbye!
+2024-07-01 15:12:34,355 - INFO - Environment variables loaded.
+2024-07-01 15:12:34,356 - INFO - Logging configured.
+2024-07-01 15:12:34,356 - INFO - Logging configured.
+2024-07-01 15:12:34,356 - ERROR - Unknown command. Please enter a valid command.
+2024-07-01 15:12:34,356 - ERROR - Unknown command. Please enter a valid command.
+2024-07-01 15:12:34,356 - INFO - f {printed_output}
+2024-07-01 15:12:34,356 - INFO - f {printed_output}
+2024-07-01 15:12:34,359 - INFO - Environment variables loaded.
+2024-07-01 15:12:34,359 - INFO - Environment variables loaded.
+2024-07-01 15:12:34,360 - INFO - Logging configured.
+2024-07-01 15:12:34,360 - INFO - Logging configured.
+2024-07-01 15:12:34,360 - INFO - Logging configured.
+2024-07-01 15:12:34,360 - ERROR - Invalid input. Please enter valid numbers.
+2024-07-01 15:12:34,360 - ERROR - Invalid input. Please enter valid numbers.
+2024-07-01 15:12:34,360 - ERROR - Invalid input. Please enter valid numbers.
+2024-07-01 15:12:34,360 - INFO - Exiting the calculator. Goodbye!
+2024-07-01 15:12:34,360 - INFO - Exiting the calculator. Goodbye!
+2024-07-01 15:12:34,360 - INFO - Exiting the calculator. Goodbye!
+2024-07-01 15:12:34,362 - INFO - Printed output: Invalid input. Please enter valid numbers.
+Exiting the calculator. Goodbye!
+2024-07-01 15:12:34,362 - INFO - Printed output: Invalid input. Please enter valid numbers.
+Exiting the calculator. Goodbye!
+2024-07-01 15:12:34,362 - INFO - Printed output: Invalid input. Please enter valid numbers.
+Exiting the calculator. Goodbye!
+2024-07-01 15:12:34,367 - INFO - Environment variables loaded.
+2024-07-01 15:12:34,367 - INFO - Environment variables loaded.
+2024-07-01 15:12:34,367 - INFO - Environment variables loaded.
+2024-07-01 15:12:34,368 - INFO - Logging configured.
+2024-07-01 15:12:34,368 - INFO - Logging configured.
+2024-07-01 15:12:34,368 - INFO - Logging configured.
+2024-07-01 15:12:34,368 - INFO - Logging configured.
+2024-07-01 15:12:34,370 - INFO - Environment variables loaded.
+2024-07-01 15:12:34,370 - INFO - Environment variables loaded.
+2024-07-01 15:12:34,370 - INFO - Environment variables loaded.
+2024-07-01 15:12:34,370 - INFO - Environment variables loaded.
+2024-07-01 15:12:34,371 - INFO - Logging configured.
+2024-07-01 15:12:34,371 - INFO - Logging configured.
+2024-07-01 15:12:34,371 - INFO - Logging configured.
+2024-07-01 15:12:34,371 - INFO - Logging configured.
+2024-07-01 15:12:34,371 - INFO - Logging configured.
+2024-07-01 15:12:34,371 - INFO - Logging configured.
+2024-07-01 15:12:34,371 - INFO - Logging configured.
+2024-07-01 15:12:34,371 - INFO - Logging configured.
+2024-07-01 15:12:34,380 - INFO - Result of division: 3.0
+2024-07-01 15:12:34,380 - INFO - Result of division: 3.0
+2024-07-01 15:12:34,380 - INFO - Result of division: 3.0
+2024-07-01 15:12:34,380 - INFO - Result of division: 3.0
+2024-07-01 15:12:34,384 - ERROR - Error: Division by zero
+2024-07-01 15:12:34,384 - ERROR - Error: Division by zero
+2024-07-01 15:12:34,384 - ERROR - Error: Division by zero
+2024-07-01 15:12:34,384 - ERROR - Error: Division by zero
+2024-07-01 15:12:39,445 - INFO - Logging configured.
+2024-07-01 15:12:39,446 - INFO - Exiting the calculator. Goodbye!
+2024-07-01 15:12:39,446 - INFO - Printed output: Exiting the calculator. Goodbye!
+2024-07-01 15:12:39,451 - INFO - Environment variables loaded.
+2024-07-01 15:12:39,453 - INFO - Logging configured.
+2024-07-01 15:12:39,453 - INFO - Logging configured.
+2024-07-01 15:12:39,453 - ERROR - Unknown command. Please enter a valid command.
+2024-07-01 15:12:39,453 - ERROR - Unknown command. Please enter a valid command.
+2024-07-01 15:12:39,456 - INFO - f {printed_output}
+2024-07-01 15:12:39,456 - INFO - f {printed_output}
+2024-07-01 15:12:39,464 - INFO - Environment variables loaded.
+2024-07-01 15:12:39,464 - INFO - Environment variables loaded.
+2024-07-01 15:12:39,464 - INFO - Logging configured.
+2024-07-01 15:12:39,464 - INFO - Logging configured.
+2024-07-01 15:12:39,464 - INFO - Logging configured.
+2024-07-01 15:12:39,465 - ERROR - Invalid input. Please enter valid numbers.
+2024-07-01 15:12:39,465 - ERROR - Invalid input. Please enter valid numbers.
+2024-07-01 15:12:39,465 - ERROR - Invalid input. Please enter valid numbers.
+2024-07-01 15:12:39,465 - INFO - Exiting the calculator. Goodbye!
+2024-07-01 15:12:39,465 - INFO - Exiting the calculator. Goodbye!
+2024-07-01 15:12:39,465 - INFO - Exiting the calculator. Goodbye!
+2024-07-01 15:12:39,465 - INFO - Printed output: Invalid input. Please enter valid numbers.
+Exiting the calculator. Goodbye!
+2024-07-01 15:12:39,465 - INFO - Printed output: Invalid input. Please enter valid numbers.
+Exiting the calculator. Goodbye!
+2024-07-01 15:12:39,465 - INFO - Printed output: Invalid input. Please enter valid numbers.
+Exiting the calculator. Goodbye!
+2024-07-01 15:12:39,471 - INFO - Environment variables loaded.
+2024-07-01 15:12:39,471 - INFO - Environment variables loaded.
+2024-07-01 15:12:39,471 - INFO - Environment variables loaded.
+2024-07-01 15:12:39,472 - INFO - Logging configured.
+2024-07-01 15:12:39,472 - INFO - Logging configured.
+2024-07-01 15:12:39,472 - INFO - Logging configured.
+2024-07-01 15:12:39,472 - INFO - Logging configured.
+2024-07-01 15:12:39,484 - INFO - Environment variables loaded.
+2024-07-01 15:12:39,484 - INFO - Environment variables loaded.
+2024-07-01 15:12:39,484 - INFO - Environment variables loaded.
+2024-07-01 15:12:39,484 - INFO - Environment variables loaded.
+2024-07-01 15:12:39,485 - INFO - Logging configured.
+2024-07-01 15:12:39,485 - INFO - Logging configured.
+2024-07-01 15:12:39,485 - INFO - Logging configured.
+2024-07-01 15:12:39,485 - INFO - Logging configured.
+2024-07-01 15:12:39,485 - INFO - Logging configured.
+2024-07-01 15:12:39,485 - INFO - Logging configured.
+2024-07-01 15:12:39,485 - INFO - Logging configured.
+2024-07-01 15:12:39,485 - INFO - Logging configured.
+2024-07-01 15:12:39,507 - INFO - Result of division: 3.0
+2024-07-01 15:12:39,507 - INFO - Result of division: 3.0
+2024-07-01 15:12:39,507 - INFO - Result of division: 3.0
+2024-07-01 15:12:39,507 - INFO - Result of division: 3.0
+2024-07-01 15:12:39,510 - ERROR - Error: Division by zero
+2024-07-01 15:12:39,510 - ERROR - Error: Division by zero
+2024-07-01 15:12:39,510 - ERROR - Error: Division by zero
+2024-07-01 15:12:39,510 - ERROR - Error: Division by zero
+2024-07-01 15:13:44,568 - INFO - Logging configured.
+2024-07-01 15:13:48,558 - INFO - Result of add 2.0 and 1.0 is: 3.0
+2024-07-01 15:13:54,517 - INFO - Result of subtract 3.0 and 1.0 is: 2.0
+2024-07-01 15:14:05,937 - INFO - Result of multiply 12.0 and 10.0 is: 120.0
+2024-07-01 15:14:34,865 - INFO - Result of division: 2.0
+2024-07-01 15:14:34,865 - INFO - Result of divide 4.0 and 2.0 is: 2.0
+2024-07-01 15:15:01,941 - ERROR - Error: Division by zero
+2024-07-01 15:15:04,109 - INFO - Exiting the calculator. Goodbye!
