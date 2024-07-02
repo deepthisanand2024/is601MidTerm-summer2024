@@ -3,7 +3,7 @@ import pkgutil
 import importlib
 import sys
 
-from calculator.operations import CommandHandler, Command
+from calculator.operations import CommandHandler, Command, HistoryManager
 from calculator.operations.add import AddCommand
 from calculator.operations.subtract import SubtractCommand
 from calculator.operations.multiply import MultiplyCommand
@@ -28,7 +28,7 @@ class App:
         self.settings.setdefault('ENVIRONMENT', 'DEV')    
         self.configure_logging()
         self.command_handler = CommandHandler()
-       
+        self.history_manager = HistoryManager()
 
     def configure_logging(self):
        
@@ -93,6 +93,10 @@ class App:
             " - subtract\n"
             " - multiply\n"
             " - divide\n"
+            " - load history\n"
+            " - save history\n"
+            " - clear history\n"
+            " - delete history\n"
             " - exit (to quit)\n").strip().lower()
             
             if command == 'exit':
@@ -116,7 +120,30 @@ class App:
                 if result is not None:
                     logging.info(f"Result of {command} {num1} and {num2} is: {result}")
                     print(f"Result of {command} {num1} and {num2} is: {result}")
-                                        
+                ''' Adding the calculation to the history'''
+                args  = str(num1) + str(', ') + str(num2)                 
+                self.history_manager.add_to_history(command, args, str(result))
+            
+            #History management commands
+            elif command in ['load history']:
+                self.history_manager.load_history()
+            elif command in ['save history']:
+                self.history_manager.save_history()
+            elif command in ['clear history']:
+                self.history_manager.clear_history()
+            elif command in ['delete history']:
+                try:
+                    index = int(input("Enter the index of the record to be deleted : ").strip()) - 1
+                    if (index < 0):
+                        print(f"Index cannot be 0 or negative. Please enter valid index number.")   
+                        logging.error(f"Index cannot be 0 or negative. Please enter valid index number.") 
+                        continue
+                except ValueError:
+                    logging.error("Invalid index. Please enter valid record number.")
+                    print("Invalid index. Please enter valid record number.")
+                    continue
+                self.history_manager.delete_history(index)  
+                                      
             else:
                 # Handle unknown commands
                 logging.error("Unknown command. Please enter a valid command.")
