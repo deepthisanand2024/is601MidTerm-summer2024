@@ -8,6 +8,7 @@ from calculator.operations.add import AddCommand
 from calculator.operations.subtract import SubtractCommand
 from calculator.operations.multiply import MultiplyCommand
 from calculator.operations.divide import DivideCommand
+from calculator.operations.menu import MenuCommand
 
 from dotenv import load_dotenv
 import logging
@@ -85,7 +86,8 @@ class App:
         self.command_handler.register_command("subtract", SubtractCommand())
         self.command_handler.register_command("multiply" , MultiplyCommand())
         self.command_handler.register_command("divide" , DivideCommand())
- 
+        #for menu
+        self.command_handler.register_command("menu" , MenuCommand())
         while True:
             # Input command from the user  
             command = input("Enter command (choose one of the following options):\n"
@@ -93,6 +95,7 @@ class App:
             " - subtract\n"
             " - multiply\n"
             " - divide\n"
+            " - menu\n"
             " - load history\n"
             " - save history\n"
             " - clear history\n"
@@ -124,6 +127,13 @@ class App:
                 args  = str(num1) + str(', ') + str(num2)                 
                 self.history_manager.add_to_history(command, args, str(result))
             
+            elif command in ['menu']: 
+                self.load_plugins()
+                result, menu_op, menu_num = self.command_handler.execute_menu_command()
+                                
+                ''' Adding the calculation to the history'''              
+                self.history_manager.add_to_history(menu_op, menu_num, str(round(result, 2)))
+            
             #History management commands
             elif command in ['load history']:
                 self.history_manager.load_history()
@@ -143,7 +153,7 @@ class App:
                     print("Invalid index. Please enter valid record number.")
                     continue
                 self.history_manager.delete_history(index)  
-                                      
+
             else:
                 # Handle unknown commands
                 logging.error("Unknown command. Please enter a valid command.")
