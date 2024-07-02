@@ -26,3 +26,240 @@
 2024-07-01 15:12:39,507 - INFO - Result of division: 3.0
 2024-07-01 15:12:39,510 - ERROR - Error: Division by zero
 2024-07-01 15:12:39,510 - ERROR - Error: Division by zero
+2024-07-01 20:45:50,589 - INFO - Logging configured.
+2024-07-01 20:45:50,591 - INFO - Logging configured.
+2024-07-01 20:45:50,591 - INFO - Logging configured.
+2024-07-01 20:45:50,598 - INFO - History saved successfully.
+2024-07-01 20:45:50,598 - INFO - History saved successfully.
+2024-07-01 20:45:50,602 - INFO - History saved successfully.
+2024-07-01 20:45:50,602 - INFO - History saved successfully.
+2024-07-01 20:45:50,606 - INFO - History loaded successfully.
+2024-07-01 20:45:50,606 - INFO - History loaded successfully.
+2024-07-01 20:45:50,607 - INFO - No history to show.
+2024-07-01 20:45:50,607 - INFO - No history to show.
+2024-07-01 20:45:50,613 - INFO - History saved successfully.
+2024-07-01 20:45:50,613 - INFO - History saved successfully.
+2024-07-01 20:45:50,616 - INFO - History saved successfully.
+2024-07-01 20:45:50,616 - INFO - History saved successfully.
+2024-07-01 20:45:50,622 - INFO - History saved successfully.
+2024-07-01 20:45:50,622 - INFO - History saved successfully.
+2024-07-01 20:45:50,626 - INFO - History cleared successfully.
+2024-07-01 20:45:50,626 - INFO - History cleared successfully.
+2024-07-01 20:45:50,634 - INFO - History saved successfully.
+2024-07-01 20:45:50,634 - INFO - History saved successfully.
+2024-07-01 20:45:50,636 - INFO - History saved successfully.
+2024-07-01 20:45:50,636 - INFO - History saved successfully.
+2024-07-01 20:45:50,637 - INFO - History saved successfully.
+2024-07-01 20:45:50,637 - INFO - History saved successfully.
+2024-07-01 20:45:50,638 - INFO - Record at index 0 deleted successfully.
+2024-07-01 20:45:50,638 - INFO - Record at index 0 deleted successfully.
+2024-07-01 20:45:50,640 - INFO - History loaded successfully.
+2024-07-01 20:45:50,640 - INFO - History loaded successfully.
+2024-07-01 20:45:50,640 - INFO - Calculation History Records: 
+2024-07-01 20:45:50,640 - INFO - Calculation History Records: 
+2024-07-01 20:45:50,643 - INFO - Record 1: 
+2024-07-01 20:45:50,643 - INFO - Record 1: 
+2024-07-01 20:45:50,644 - INFO -     Command: subtract
+2024-07-01 20:45:50,644 - INFO -     Command: subtract
+2024-07-01 20:45:50,644 - INFO -     Arguments: 5, 2
+2024-07-01 20:45:50,644 - INFO -     Arguments: 5, 2
+2024-07-01 20:45:50,645 - INFO -     Result: 3
+2024-07-01 20:45:50,645 - INFO -     Result: 3
+2024-07-01 20:45:50,650 - INFO - History saved successfully.
+2024-07-01 20:45:50,650 - INFO - History saved successfully.
+2024-07-01 20:45:50,650 - INFO - Calculation History Records: 
+2024-07-01 20:45:50,650 - INFO - Calculation History Records: 
+2024-07-01 20:45:50,650 - INFO - Record 1: 
+2024-07-01 20:45:50,650 - INFO - Record 1: 
+2024-07-01 20:45:50,651 - INFO -     Command: add
+2024-07-01 20:45:50,651 - INFO -     Command: add
+2024-07-01 20:45:50,651 - INFO -     Arguments: 1, 2
+2024-07-01 20:45:50,651 - INFO -     Arguments: 1, 2
+2024-07-01 20:45:50,651 - INFO -     Result: 3
+2024-07-01 20:45:50,651 - INFO -     Result: 3
+2024-07-01 20:45:50,655 - INFO - History saved successfully.
+2024-07-01 20:45:50,655 - INFO - History saved successfully.
+2024-07-01 20:45:50,657 - INFO - History saved successfully.
+2024-07-01 20:45:50,657 - INFO - History saved successfully.
+2024-07-01 20:45:50,661 - INFO - Environment variables loaded.
+2024-07-01 20:45:50,661 - INFO - Environment variables loaded.
+2024-07-01 20:45:50,661 - INFO - Logging configured.
+2024-07-01 20:45:50,661 - INFO - Logging configured.
+2024-07-01 20:45:50,663 - ERROR - No calculation history available. Cannot delete records
+2024-07-01 20:45:50,663 - ERROR - No calculation history available. Cannot delete records
+2024-07-01 20:45:50,664 - ERROR - Index cannot be 0 or negative. Please enter valid index number.
+2024-07-01 20:45:50,664 - ERROR - Index cannot be 0 or negative. Please enter valid index number.
+2024-07-01 20:45:50,665 - INFO - Exiting the calculator. Goodbye!
+2024-07-01 20:45:50,665 - INFO - Exiting the calculator. Goodbye!
+2024-07-01 20:45:50,668 - INFO - Environment variables loaded.
+2024-07-01 20:45:50,668 - INFO - Environment variables loaded.
+2024-07-01 20:45:50,669 - INFO - Logging configured.
+2024-07-01 20:45:50,669 - INFO - Logging configured.
+2024-07-01 20:45:50,670 - ERROR - No calculation history available. Cannot delete records
+2024-07-01 20:45:50,670 - ERROR - No calculation history available. Cannot delete records
+2024-07-01 20:45:50,671 - ERROR - Invalid index. Please enter valid record number.
+2024-07-01 20:45:50,671 - ERROR - Invalid index. Please enter valid record number.
+2024-07-01 20:45:50,671 - INFO - Exiting the calculator. Goodbye!
+2024-07-01 20:45:50,671 - INFO - Exiting the calculator. Goodbye!
+2024-07-01 20:45:50,685 - INFO - Result of division: 3.0
+2024-07-01 20:45:50,685 - INFO - Result of division: 3.0
+2024-07-01 20:45:50,688 - ERROR - Error: Division by zero
+2024-07-01 20:45:50,688 - ERROR - Error: Division by zero
+2024-07-01 20:46:11,606 - INFO - Logging configured.
+2024-07-01 20:46:11,610 - INFO - Logging configured.
+2024-07-01 20:46:11,610 - INFO - Logging configured.
+2024-07-01 20:46:11,618 - INFO - History saved successfully.
+2024-07-01 20:46:11,618 - INFO - History saved successfully.
+2024-07-01 20:46:11,620 - INFO - History saved successfully.
+2024-07-01 20:46:11,620 - INFO - History saved successfully.
+2024-07-01 20:46:11,624 - INFO - History loaded successfully.
+2024-07-01 20:46:11,624 - INFO - History loaded successfully.
+2024-07-01 20:46:11,625 - INFO - No history to show.
+2024-07-01 20:46:11,625 - INFO - No history to show.
+2024-07-01 20:46:11,630 - INFO - History saved successfully.
+2024-07-01 20:46:11,630 - INFO - History saved successfully.
+2024-07-01 20:46:11,631 - INFO - History saved successfully.
+2024-07-01 20:46:11,631 - INFO - History saved successfully.
+2024-07-01 20:46:11,639 - INFO - History saved successfully.
+2024-07-01 20:46:11,639 - INFO - History saved successfully.
+2024-07-01 20:46:11,640 - INFO - History cleared successfully.
+2024-07-01 20:46:11,640 - INFO - History cleared successfully.
+2024-07-01 20:46:11,651 - INFO - History saved successfully.
+2024-07-01 20:46:11,651 - INFO - History saved successfully.
+2024-07-01 20:46:11,654 - INFO - History saved successfully.
+2024-07-01 20:46:11,654 - INFO - History saved successfully.
+2024-07-01 20:46:11,655 - INFO - History saved successfully.
+2024-07-01 20:46:11,655 - INFO - History saved successfully.
+2024-07-01 20:46:11,656 - INFO - Record at index 0 deleted successfully.
+2024-07-01 20:46:11,656 - INFO - Record at index 0 deleted successfully.
+2024-07-01 20:46:11,657 - INFO - History loaded successfully.
+2024-07-01 20:46:11,657 - INFO - History loaded successfully.
+2024-07-01 20:46:11,658 - INFO - Calculation History Records: 
+2024-07-01 20:46:11,658 - INFO - Calculation History Records: 
+2024-07-01 20:46:11,658 - INFO - Record 1: 
+2024-07-01 20:46:11,658 - INFO - Record 1: 
+2024-07-01 20:46:11,659 - INFO -     Command: subtract
+2024-07-01 20:46:11,659 - INFO -     Command: subtract
+2024-07-01 20:46:11,659 - INFO -     Arguments: 5, 2
+2024-07-01 20:46:11,659 - INFO -     Arguments: 5, 2
+2024-07-01 20:46:11,659 - INFO -     Result: 3
+2024-07-01 20:46:11,659 - INFO -     Result: 3
+2024-07-01 20:46:11,664 - INFO - History saved successfully.
+2024-07-01 20:46:11,664 - INFO - History saved successfully.
+2024-07-01 20:46:11,668 - INFO - Calculation History Records: 
+2024-07-01 20:46:11,668 - INFO - Calculation History Records: 
+2024-07-01 20:46:11,669 - INFO - Record 1: 
+2024-07-01 20:46:11,669 - INFO - Record 1: 
+2024-07-01 20:46:11,669 - INFO -     Command: add
+2024-07-01 20:46:11,669 - INFO -     Command: add
+2024-07-01 20:46:11,670 - INFO -     Arguments: 1, 2
+2024-07-01 20:46:11,670 - INFO -     Arguments: 1, 2
+2024-07-01 20:46:11,670 - INFO -     Result: 3
+2024-07-01 20:46:11,670 - INFO -     Result: 3
+2024-07-01 20:46:11,674 - INFO - History saved successfully.
+2024-07-01 20:46:11,674 - INFO - History saved successfully.
+2024-07-01 20:46:11,676 - INFO - History saved successfully.
+2024-07-01 20:46:11,676 - INFO - History saved successfully.
+2024-07-01 20:46:11,679 - INFO - Environment variables loaded.
+2024-07-01 20:46:11,679 - INFO - Environment variables loaded.
+2024-07-01 20:46:11,680 - INFO - Logging configured.
+2024-07-01 20:46:11,680 - INFO - Logging configured.
+2024-07-01 20:46:11,681 - ERROR - No calculation history available. Cannot delete records
+2024-07-01 20:46:11,681 - ERROR - No calculation history available. Cannot delete records
+2024-07-01 20:46:11,682 - ERROR - Index cannot be 0 or negative. Please enter valid index number.
+2024-07-01 20:46:11,682 - ERROR - Index cannot be 0 or negative. Please enter valid index number.
+2024-07-01 20:46:11,682 - INFO - Exiting the calculator. Goodbye!
+2024-07-01 20:46:11,682 - INFO - Exiting the calculator. Goodbye!
+2024-07-01 20:46:11,692 - INFO - Environment variables loaded.
+2024-07-01 20:46:11,692 - INFO - Environment variables loaded.
+2024-07-01 20:46:11,692 - INFO - Logging configured.
+2024-07-01 20:46:11,692 - INFO - Logging configured.
+2024-07-01 20:46:11,694 - ERROR - No calculation history available. Cannot delete records
+2024-07-01 20:46:11,694 - ERROR - No calculation history available. Cannot delete records
+2024-07-01 20:46:11,695 - ERROR - Invalid index. Please enter valid record number.
+2024-07-01 20:46:11,695 - ERROR - Invalid index. Please enter valid record number.
+2024-07-01 20:46:11,695 - INFO - Exiting the calculator. Goodbye!
+2024-07-01 20:46:11,695 - INFO - Exiting the calculator. Goodbye!
+2024-07-01 20:46:11,711 - INFO - Result of division: 3.0
+2024-07-01 20:46:11,711 - INFO - Result of division: 3.0
+2024-07-01 20:46:11,713 - ERROR - Error: Division by zero
+2024-07-01 20:46:11,713 - ERROR - Error: Division by zero
+2024-07-01 20:46:27,662 - INFO - Logging configured.
+2024-07-01 20:46:27,672 - INFO - Logging configured.
+2024-07-01 20:46:27,672 - INFO - Logging configured.
+2024-07-01 20:46:27,699 - INFO - History saved successfully.
+2024-07-01 20:46:27,699 - INFO - History saved successfully.
+2024-07-01 20:46:27,710 - INFO - History saved successfully.
+2024-07-01 20:46:27,710 - INFO - History saved successfully.
+2024-07-01 20:46:27,742 - INFO - History loaded successfully.
+2024-07-01 20:46:27,742 - INFO - History loaded successfully.
+2024-07-01 20:46:27,742 - INFO - No history to show.
+2024-07-01 20:46:27,742 - INFO - No history to show.
+2024-07-01 20:46:27,758 - INFO - History saved successfully.
+2024-07-01 20:46:27,758 - INFO - History saved successfully.
+2024-07-01 20:46:27,780 - INFO - History saved successfully.
+2024-07-01 20:46:27,780 - INFO - History saved successfully.
+2024-07-01 20:46:27,789 - INFO - History saved successfully.
+2024-07-01 20:46:27,789 - INFO - History saved successfully.
+2024-07-01 20:46:27,796 - INFO - History cleared successfully.
+2024-07-01 20:46:27,796 - INFO - History cleared successfully.
+2024-07-01 20:46:27,804 - INFO - History saved successfully.
+2024-07-01 20:46:27,804 - INFO - History saved successfully.
+2024-07-01 20:46:27,805 - INFO - History saved successfully.
+2024-07-01 20:46:27,805 - INFO - History saved successfully.
+2024-07-01 20:46:27,810 - INFO - History saved successfully.
+2024-07-01 20:46:27,810 - INFO - History saved successfully.
+2024-07-01 20:46:27,810 - INFO - Record at index 0 deleted successfully.
+2024-07-01 20:46:27,810 - INFO - Record at index 0 deleted successfully.
+2024-07-01 20:46:27,813 - INFO - History loaded successfully.
+2024-07-01 20:46:27,813 - INFO - History loaded successfully.
+2024-07-01 20:46:27,813 - INFO - Calculation History Records: 
+2024-07-01 20:46:27,813 - INFO - Calculation History Records: 
+2024-07-01 20:46:27,814 - INFO - Record 1: 
+2024-07-01 20:46:27,814 - INFO - Record 1: 
+2024-07-01 20:46:27,816 - INFO -     Command: subtract
+2024-07-01 20:46:27,816 - INFO -     Command: subtract
+2024-07-01 20:46:27,816 - INFO -     Arguments: 5, 2
+2024-07-01 20:46:27,816 - INFO -     Arguments: 5, 2
+2024-07-01 20:46:27,816 - INFO -     Result: 3
+2024-07-01 20:46:27,816 - INFO -     Result: 3
+2024-07-01 20:46:27,822 - INFO - History saved successfully.
+2024-07-01 20:46:27,822 - INFO - History saved successfully.
+2024-07-01 20:46:27,822 - INFO - Calculation History Records: 
+2024-07-01 20:46:27,822 - INFO - Calculation History Records: 
+2024-07-01 20:46:27,823 - INFO - Record 1: 
+2024-07-01 20:46:27,823 - INFO - Record 1: 
+2024-07-01 20:46:27,823 - INFO -     Command: add
+2024-07-01 20:46:27,823 - INFO -     Command: add
+2024-07-01 20:46:27,824 - INFO -     Arguments: 1, 2
+2024-07-01 20:46:27,824 - INFO -     Arguments: 1, 2
+2024-07-01 20:46:27,824 - INFO -     Result: 3
+2024-07-01 20:46:27,824 - INFO -     Result: 3
+2024-07-01 20:46:27,832 - INFO - History saved successfully.
+2024-07-01 20:46:27,832 - INFO - History saved successfully.
+2024-07-01 20:46:27,837 - INFO - History saved successfully.
+2024-07-01 20:46:27,837 - INFO - History saved successfully.
+2024-07-01 20:46:27,841 - INFO - Environment variables loaded.
+2024-07-01 20:46:27,841 - INFO - Environment variables loaded.
+2024-07-01 20:46:27,841 - INFO - Logging configured.
+2024-07-01 20:46:27,841 - INFO - Logging configured.
+2024-07-01 20:46:27,844 - ERROR - No calculation history available. Cannot delete records
+2024-07-01 20:46:27,844 - ERROR - No calculation history available. Cannot delete records
+2024-07-01 20:46:27,844 - ERROR - Index cannot be 0 or negative. Please enter valid index number.
+2024-07-01 20:46:27,844 - ERROR - Index cannot be 0 or negative. Please enter valid index number.
+2024-07-01 20:46:27,844 - INFO - Exiting the calculator. Goodbye!
+2024-07-01 20:46:27,844 - INFO - Exiting the calculator. Goodbye!
+2024-07-01 20:46:27,849 - INFO - Environment variables loaded.
+2024-07-01 20:46:27,849 - INFO - Environment variables loaded.
+2024-07-01 20:46:27,851 - INFO - Logging configured.
+2024-07-01 20:46:27,851 - INFO - Logging configured.
+2024-07-01 20:46:27,854 - ERROR - No calculation history available. Cannot delete records
+2024-07-01 20:46:27,854 - ERROR - No calculation history available. Cannot delete records
+2024-07-01 20:46:27,854 - ERROR - Invalid index. Please enter valid record number.
+2024-07-01 20:46:27,854 - ERROR - Invalid index. Please enter valid record number.
+2024-07-01 20:46:27,855 - INFO - Exiting the calculator. Goodbye!
+2024-07-01 20:46:27,855 - INFO - Exiting the calculator. Goodbye!
+2024-07-01 20:46:27,871 - INFO - Result of division: 3.0
+2024-07-01 20:46:27,871 - INFO - Result of division: 3.0
+2024-07-01 20:46:27,874 - ERROR - Error: Division by zero
+2024-07-01 20:46:27,874 - ERROR - Error: Division by zero
