@@ -890,3 +890,10 @@ Exiting the calculator. Goodbye!
 2024-07-01 20:47:42,338 - INFO -     Result: 24213.0
 2024-07-01 20:48:50,368 - INFO - History cleared successfully.
 2024-07-01 20:48:56,586 - INFO - Exiting the calculator. Goodbye!
+2024-07-01 20:57:35,739 - INFO - Logging configured.
+2024-07-01 20:57:40,132 - INFO - Result of add 686.0 and 23.0 is: 709.0
+2024-07-01 20:57:40,134 - INFO - History saved successfully.
+2024-07-01 20:57:50,120 - INFO - Result of division: 22.0
+2024-07-01 20:57:50,120 - INFO - Result of divide 242.0 and 11.0 is: 22.0
+2024-07-01 20:57:50,122 - INFO - History saved successfully.
+2024-07-01 20:57:57,520 - INFO - Exiting the calculator. Goodbye!
