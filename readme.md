@@ -90,7 +90,7 @@ Error handling is a critical aspect of robust software design. In the Calculator
 
 ![Picture8](images/Picture8.png)
 	
- 	- Checking for Unknown commands: The program checks if the commands entered by the user are from the list of available options in the REPL interface. If the command does not match with these options, the program logs an error exits out. This prevents an invalid operation due to unknown user commands.
+         - Checking for Unknown commands: The program checks if the commands entered by the user are from the list of available options in the REPL interface. If the command does not match with these options, the program logs an error exits out. This prevents an invalid operation due to unknown user commands.
 
 ![Picture9](images/Picture9.png)
 
@@ -100,7 +100,7 @@ Error handling is a critical aspect of robust software design. In the Calculator
 
 ![Picture10](images/Picture10.png)
 	  
- 	  - Executing Plugin Commands: When executing plugin commands, the program tries to execute the command and catches a KeyError if the command is not found. In this example, the program attempts to execute a command from the plugin_commands dictionary. If the command does not exist, it catches the KeyError and logs an error.
+ 	  -  Executing Plugin Commands: When executing plugin commands, the program tries to execute the command and catches a KeyError if the command is not found. In this example, the program attempts to execute a command from the plugin_commands dictionary. If the command does not exist, it catches the KeyError and logs an error.
 
 ![Picture11](images/Picture11.png)
 
