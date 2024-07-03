@@ -84,29 +84,27 @@ The Calculator program effectively implements these design patterns to create a 
 
 Error handling is a critical aspect of robust software design. In the Calculator program, error handling is implemented using two primary approaches: "Look Before You Leap" (LBYL) and "Easier to Ask for Forgiveness than Permission" (EAFP). This section provides a detailed explanation of these approaches and examples of their implementation in the program. 
 
-	**LBYL approach**  involves checking conditions before performing an operation to avoid errors. This proactive strategy ensures that all prerequisites are met before proceeding, thereby preventing exceptions from being raised. It is particularly useful when conditions are easy to check and the cost of doing so is low.
-
-	Implementation Examples:
-
-	1. Checking Index Validity: When deleting a history record, the program checks if the provided index is valid before attempting the deletion. In this example, the program checks if the index is less than 0 before proceeding with the deletion. This prevents an invalid operation and avoids raising an exception.
+	1. *LBYL approach*  involves checking conditions before performing an operation to avoid errors. This proactive strategy ensures that all prerequisites are met before proceeding, thereby preventing exceptions from being raised. It is particularly useful when conditions are easy to check and the cost of doing so is low.
+     - Implementation Examples:
+	
+	Checking Index Validity: When deleting a history record, the program checks if the provided index is valid before attempting the deletion. In this example, the program checks if the index is less than 0 before proceeding with the deletion. This prevents an invalid operation and avoids raising an exception.
 
 ![Picture8](images/Picture8.png)
 
-         2. Checking for Unknown commands: The program checks if the commands entered by the user are from the list of available options in the REPL interface. If the command does not match with these options, the program logs an error exits out. This prevents an invalid operation due to unknown user commands.
+        Checking for Unknown commands: The program checks if the commands entered by the user are from the list of available options in the REPL interface. If the command does not match with these options, the program logs an error exits out. This prevents an invalid operation due to unknown user commands.
 
 ![Picture9](images/Picture9.png)
 
 
-	**EAFP approach**  involves trying to perform an operation directly and catching exceptions if they occur. This reactive strategy is useful when it is difficult or costly to check conditions beforehand, or when multiple conditions need to be checked simultaneously. 
-
-	Implementation Examples:
+	2. *EAFP approach*  involves trying to perform an operation directly and catching exceptions if they occur. This reactive strategy is useful when it is difficult or costly to check conditions beforehand, or when multiple conditions need to be checked simultaneously. 
+	- Implementation Examples:
 	
-	1. Handling Non-Existent History File: When loading history, the program attempts to read the file and catches a FileNotFoundError if the file does not exist. In this example, the program attempts to load the history file without checking its existence first. If the file is not found, it catches the FileNotFoundError and logs an error.
+	 Handling Non-Existent History File: When loading history, the program attempts to read the file and catches a FileNotFoundError if the file does not exist. In this example, the program attempts to load the history file without checking its existence first. If the file is not found, it catches the FileNotFoundError and logs an error.
 
 ![Picture10](images/Picture10.png)
 
-
-	2. Executing Plugin Commands: When executing plugin commands, the program tries to execute the command and catches a KeyError if the command is not found. In this example, the program attempts to execute a command from the plugin_commands dictionary. If the command does not exist, it catches the KeyError and logs an error.
+	
+	 Executing Plugin Commands: When executing plugin commands, the program tries to execute the command and catches a KeyError if the command is not found. In this example, the program attempts to execute a command from the plugin_commands dictionary. If the command does not exist, it catches the KeyError and logs an error.
 
 ![Picture11](images/Picture11.png)
 
