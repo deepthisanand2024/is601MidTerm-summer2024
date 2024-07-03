@@ -1,4 +1,4 @@
-i# Introduction
+# Introduction
 This report details the development of an advanced Python-based interactive calculator application designed to perform basic arithmetic operations such as addition, subtraction, multiplication, and division, as well as some advanced operations (trigonometry/square/square root) through plugins. It maintains a history of calculations and allows the user to manage this history. The program implements a command line interface enabling the user to interact directly with the calculator. We have utilized Pandas to manage a robust calculation history to load, save, clear, and delete history records through the REPL interface and for efficient reading and writing to CSV file. A dynamic logging mechanism has been implemented through environment variables for log level and output of the log file. The program leverages design patterns and robust error handling to ensure a flexible and reliable user experience.
 
 ### Contributor: Deepthi Sachidanand
@@ -83,9 +83,11 @@ The Calculator program effectively implements these design patterns to create a 
 ### Error Handling
 
 Error handling is a critical aspect of robust software design. In the Calculator program, error handling is implemented using two primary approaches: "Look Before You Leap" (LBYL) and "Easier to Ask for Forgiveness than Permission" (EAFP). This section provides a detailed explanation of these approaches and examples of their implementation in the program. 
-	
-       - **LBYL approach**  involves checking conditions before performing an operation to avoid errors. This proactive strategy ensures that all prerequisites are met before proceeding, thereby preventing exceptions from being raised. It is particularly useful when conditions are easy to check and the cost of doing so is low.
-Implementation Examples:
+
+	**LBYL approach**  involves checking conditions before performing an operation to avoid errors. This proactive strategy ensures that all prerequisites are met before proceeding, thereby preventing exceptions from being raised. It is particularly useful when conditions are easy to check and the cost of doing so is low.
+
+	Implementation Examples:
+
 	1. Checking Index Validity: When deleting a history record, the program checks if the provided index is valid before attempting the deletion. In this example, the program checks if the index is less than 0 before proceeding with the deletion. This prevents an invalid operation and avoids raising an exception.
 
 ![Picture8](images/Picture8.png)
@@ -95,8 +97,10 @@ Implementation Examples:
 ![Picture9](images/Picture9.png)
 
 
-	- **EAFP approach**  involves trying to perform an operation directly and catching exceptions if they occur. This reactive strategy is useful when it is difficult or costly to check conditions beforehand, or when multiple conditions need to be checked simultaneously. 
-Implementation Examples:
+	**EAFP approach**  involves trying to perform an operation directly and catching exceptions if they occur. This reactive strategy is useful when it is difficult or costly to check conditions beforehand, or when multiple conditions need to be checked simultaneously. 
+
+	Implementation Examples:
+	
 	1. Handling Non-Existent History File: When loading history, the program attempts to read the file and catches a FileNotFoundError if the file does not exist. In this example, the program attempts to load the history file without checking its existence first. If the file is not found, it catches the FileNotFoundError and logs an error.
 
 ![Picture10](images/Picture10.png)
